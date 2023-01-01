@@ -1,0 +1,23 @@
+# Eclipse artifacts
+/.project
+/.classpath
+/.settings
+
+# Intellij artifacts
+.idea/
+*.iml
+
+# Mac artifacts
+.Ds_Store
+
+# Java
+bin
+target
+
+# Node
+node_modules
+node
+dist
+
+.git
+*.log
